@@ -20,6 +20,7 @@ The project provides a set of classes for annotation of rectangles on image data
 
 There may be pieces of helper functions, header files, etc. that may be missing in the repository.
 
+https://kyaw.xyz/2017/12/18/image-recognition-dataset-annotation-system-cpp
 
 Copyright (C) 2017 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
 
